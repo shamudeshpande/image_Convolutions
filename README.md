@@ -1,5 +1,5 @@
 # image_Convolutions
-Python script that performs image convolutions (blurring, sharpening and edge detection algorithms like Laplacian and Sobel).  
+Python script that performs image convolutions (blurring, sharpening and Laplacian and Sobel edge detection).  
 
 command to run script
 
